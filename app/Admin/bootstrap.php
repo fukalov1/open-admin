@@ -23,7 +23,7 @@ use OpenAdmin\Admin\Facades\Admin;
 Admin::js('https://unpkg.com/vue@3/dist/vue.global.js');
 Admin::js('https://cdn.jsdelivr.net/npm/chart.js@3.6.0/dist/chart.min.js');
 
-Admin::js('/build/assets/app-BFeHgTTW.js');
+Admin::js('/build/assets/app-DspuE8pW.js');
 Admin::js('/build/assets/app-l0sNRNKZ.js');
 
 OpenAdmin\Admin\Form::forget(['editor']);

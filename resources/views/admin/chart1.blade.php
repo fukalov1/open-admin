@@ -1,9 +1,4 @@
-{{--<div>--}}
-{{--        test start chart--}}
-{{--    <chart/>--}}
-{{--</div>--}}
-
-<div class="card" id="myapp">
+<div class="card">
     <div class="card-header">
         <h4>{{ $title }}</h4>
     </div>
